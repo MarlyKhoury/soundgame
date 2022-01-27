@@ -66,7 +66,7 @@ function generate_random() {
         beat.play()
     },1000)
    muted="muted"
-   console.log(pc_sequence)//should be remove hay we need to add visuals
+   
    first_run=1
    round=pc_sequence.length  
 
