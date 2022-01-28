@@ -5,7 +5,8 @@
 ## I'm a self-taught Web Developer who is still learning!!
 
 - ⚡ Check out below a small explanation of the game
-
+<br/>
+<br/>
 
 ### GAME INITIAL STATE:
 
