@@ -5,8 +5,8 @@
 ## I'm a self-taught Web Developer who is still learning!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn more languages
+- 👯 I’m looking to develop my skills
+- 🥅 2022 Goals: Graduate from boot-camp
 - ⚡ Fun fact: I love to travel and hike 
 
 ### Connect with me:
