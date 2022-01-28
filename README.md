@@ -9,7 +9,7 @@
 
 ### GAME INITIAL STATE:
 
-<img align="left" alt="Initial state" width="400px" src="Screenshots/Screenshot (10).png">
+<img align="left" alt="Initial State" width="400px" src="Screenshots/Screenshot (10).png">
 <br/>
 
     -You start playing by pressing any key on the keyboard. This will take you to level 1
@@ -21,7 +21,7 @@
 
 ### GAME LEVELS:
 
-<img align="left" alt="First stage of the game" width="400px" src="Screenshots/Animation 1.gif">
+<img align="left" alt="Game Levels" width="400px" src="Screenshots/Animation 1.gif">
 <br/>
    - You have to memorize the computer generated sounds and replicate them in order to advance in the game
 <br/>
@@ -30,8 +30,8 @@
 <br/>
 <br/>
 
-### GAME LEVELS:
+### GAME OVER:
 
-<img align="left" alt="First stage of the game" width="400px" src="Screenshots/Screenshot (12).gif">
+<img align="left" alt="Game Over" width="400px" src="Screenshots/Screenshot (12).png">
 <br/>
    - If you miss a step you lose the game and you start over
