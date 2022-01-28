@@ -95,7 +95,7 @@ function generate_random() {
     var beat = new Audio('sounds/'+color_choice+'.mp3')
     setTimeout(function(){
        beat.play()
-    },1000)
+    },100)
    muted="muted"
    
    first_run=1
