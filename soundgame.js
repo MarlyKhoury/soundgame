@@ -83,11 +83,10 @@ if (counter<round) {
         counter++
     }
     else {
-      console.log("wrong")
-      console.log(user_input)
-      console.log(pc_sequence[user_input])
-      console.log(pc_sequence)
-      
+      document.querySelector("#title").innerHTML= "Game Over, Press Any Key to Restart"
+      var beat = new Audio("sounds/wrong.mp3")
+      beat.play()
+      muted="muted"
     
     }
 }
