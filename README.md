@@ -13,10 +13,12 @@
 ### GAME INITIAL STATE:
 
 <img align="left" alt="Initial state" width="300px" src="Screenshots/Screenshot (10).png">
-<br>
+<br/>
 
  - You start playing by pressing any key on the keyboard. This will take you to level 1
-<br>
+<br/>
+<br/>
+<br/>
 
 ### GAME FIRST STAGE:
 
