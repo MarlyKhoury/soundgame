@@ -10,15 +10,17 @@
 - ⚡ Fun fact: I love to travel and hike 
 
 
-### GAME FIRST STAGE:
+### GAME INITIAL STATE:
 
-<img align="left" alt="First state of the game" width="300px" src="Screenshots/Screenshot (10).png">
-</br>
+<img align="left" alt="Initial state" width="300px" src="Screenshots/Screenshot (10).png">
+<br>
 
  - You start playing by pressing any key on the keyboard. This will take you to level 1
-</br>
+<br>
 
-<img align="left" alt="First state of the game" width="300px" src="Screenshots/Screenshot (5).png">
+### GAME FIRST STAGE:
+
+<img align="left" alt="First stage of the game" width="300px" src="Screenshots/Screenshot (5).png">
 
 
 
