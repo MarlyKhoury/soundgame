@@ -1,5 +1,5 @@
-
-var color_list = ["green","red","yellow","blue"]
+var color_list = ["red","yellow","green","blue"]
+var color_list_2 = ["green","red","yellow","blue"]
 var random_sequence = Math.floor(Math.random() * 4);
 
 var first_run=0
@@ -87,11 +87,11 @@ document.getElementById("blue").addEventListener("click",function() {
 function generate_random() {   
 
     random_sequence = Math.floor(Math.random() * 4);
-    pc_sequence.push(color_list[random_sequence])
+    pc_sequence.push(color_list_2[random_sequence])
     document.getElementsByClassName("btn")[random_sequence].classList.add("pressed");
 
   
-    var color_choice=color_list[random_sequence]
+    var color_choice=color_list_2[random_sequence]
     var beat = new Audio('sounds/'+color_choice+'.mp3')
     setTimeout(function(){
        beat.play()
@@ -144,4 +144,5 @@ function restart_game(){
   round=0;
 
 }
-
+    
+      
