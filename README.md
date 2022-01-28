@@ -12,12 +12,14 @@
 <img align="left" alt="Initial state" width="400px" src="Screenshots/Screenshot (10).png">
 <br/>
 
-   - You start playing by pressing any key on the keyboard. This will take you to level 1
+   -- You start playing by pressing any key on the keyboard. This will take you to level 1
 <br/>
 <br/>
 <br/>
 
 ### GAME LEVELS:
+<br/>
+<br/>
 
 <img align="left" alt="First stage of the game" width="400px" src="Screenshots/Animation.gif">
    - You have to memorize the computer generated sounds and replicate them in order to advance in the game
