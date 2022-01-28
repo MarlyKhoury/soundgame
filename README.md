@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="First state of the game" width="100px" src="screenshots/Screenshot (10) />
+<img align="left" alt="First state of the game" width="100px" src="screenshots/Screenshot (10)">
 
 
 <br />
