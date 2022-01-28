@@ -4,7 +4,7 @@
 
 ## I'm a self-taught Web Developer who is still learning!!
 
-- ⚡ chou ra2yak? Check out below a small explanation of the game
+- ⚡ Check out below a small explanation of the game
 
 
 ### GAME INITIAL STATE:
