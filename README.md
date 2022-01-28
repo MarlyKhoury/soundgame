@@ -10,9 +10,11 @@
 - ⚡ Fun fact: I love to travel and hike 
 
 
-### GAME EXPLANATION:
+### GAME FIRST STAGE:
 
 <img align="left" alt="First state of the game" width="300px" src="Screenshots/Screenshot (10).png">
+
+ - You start playing by pressing any key on the keyboard. This will take you to level 1
 
 
 
