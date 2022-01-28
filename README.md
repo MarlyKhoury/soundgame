@@ -4,10 +4,7 @@
 
 ## I'm a self-taught Web Developer who is still learning!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to develop my skills
-- 🥅 2022 Goals: Graduate from boot-camp
-- ⚡ Fun fact: I love to travel and hike 
+- ⚡ Check out below a small explanation of the game
 
 
 ### GAME INITIAL STATE:
@@ -20,9 +17,9 @@
 <br/>
 <br/>
 
-### GAME FIRST STAGE:
+### GAME LEVELS:
 
-<img align="left" alt="First stage of the game" width="300px" src="Screenshots/Screenshot (5).png">
+<img align="left" alt="First stage of the game" width="300px" src="Screenshots/Animation.gif">
 
 
 
