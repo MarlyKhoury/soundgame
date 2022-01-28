@@ -86,6 +86,7 @@ if (counter<round) {
     }
     else {
       document.querySelector("#title").innerHTML= "Game Over, Press Any Key to Restart"
+      setTimeout(function(){document.querySelector("body").style.background= "red"},1000)
       var beat = new Audio("sounds/wrong.mp3")
       beat.play()
       muted="muted"
